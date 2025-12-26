@@ -11,7 +11,7 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "env": "^0.0.2",
-    "next": "15.5.2",
+    "next": "15.5.9",
     "openai": "^6.1.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
